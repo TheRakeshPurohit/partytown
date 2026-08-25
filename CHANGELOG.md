@@ -1,5 +1,11 @@
 # @qwik.dev/partytown
 
+## 0.14.3
+
+### Patch Changes
+
+- ✨ automatically execute partytown scripts added to the page after initialization, e.g. on client-side route transitions, without needing to dispatch a `ptupdate` event (by [@gioboa](https://github.com/gioboa) in [#746](https://github.com/QwikDev/partytown/pull/746))
+
 ## 0.14.2
 
 ### Patch Changes
